@@ -5,7 +5,6 @@ body{
 	margin:0 auto;
 	font-size:18px;
 	
-
 }
 
 header{
@@ -16,8 +15,6 @@ header{
 	margin:10px;
 	padding-top:50px;
 	padding-bottom:20px;
-
-
 }
 nav{
 	background-color:#ebebeb;
@@ -46,10 +43,6 @@ section{
 	content:"";
 	display:block;
 	clear:both;
-
-
-
-
 }
 aside{
 	background-color:#ebebeb;
@@ -62,10 +55,6 @@ aside{
 	padding-bottom:0px;
 	padding-right:10px;
 	padding-left:0px;
-
-
-
-
 }
 
 footer{
@@ -80,13 +69,14 @@ footer{
 }
 
 article{
+	color:white;
 	margin:10px;
 	background-color:#777;
 	padding:20px;
-
-
 }
+
 .p{
+	color:black;
 	padding: 10px;
 	background-color:#ebebeb;
 	width:400px;
@@ -94,9 +84,3 @@ article{
 	text-align:center;
 	margin:10px;
 }
-
-
-
-
-
-
